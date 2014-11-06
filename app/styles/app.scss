@@ -1,10 +1,2 @@
-html, body {
-  margin: 20px;
-}
-html { 
-  background: url(images/jarvis.png) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+@import "bootstrap";
+@import "background";
